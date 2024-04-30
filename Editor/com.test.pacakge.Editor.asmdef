@@ -1,0 +1,18 @@
+{
+    "name": "com.test.pacakge.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:da18ffc66367843ccb205dc9ed8b92ce"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
